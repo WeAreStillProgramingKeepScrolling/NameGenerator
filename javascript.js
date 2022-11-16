@@ -1,0 +1,2 @@
+var firstName = ["Aaron", "Tristan", "Warren", "Phiphatophon", "Henry", "Alex", "Mason", "Aiden", "Kenyon", "Donovan", "Winston", "Joshua", "Weston", "Ayden", "Kolby" , "Louis", "Tyler", "Nathan", "Kayden", "Ayden", "Jonathan", "Maverick"];
+var lastName = ["Santillana", "Miranda", "Tevimo", "Lee", "Collado", "Hernandez", "Stanley", "Kerley", "Ludwig", "Franser", "", "Vonpelt", "Griffen", "Bout", "Palka", "Pease", "Perfecto", "Duffin", "Busidh", "Arambula", "Kelly"];
